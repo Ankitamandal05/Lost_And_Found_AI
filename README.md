@@ -1,9 +1,3 @@
-# Lost_And_Found_AI
-A platform where users can upload found items and search for their lost belongings to recover them.
-Got it! Here's the updated README with a more straightforward tone and without the "How to Run the Project Locally" section:
-
----
-
 # 🧳 **Lost & Found Platform** 🧳
 
 Welcome to the **Lost & Found Platform**! 🌟
