@@ -42,11 +42,11 @@ This platform connects people who have found lost items with those who are looki
 
 ## 🔧 **Technologies Used:**
 
-- **Frontend**: React, HTML, CSS 🌐
-- **Backend**: Node.js, Express 🖥️
-- **Database**: MongoDB 📚
-- **Authentication**: JWT, OAuth2 🔑
-- **Cloud Storage**: AWS S3 (for images) ☁️
+- **Frontend**: HTML, CSS 🌐
+- **Backend**: Python 🖥️
+- **Development Environment**: Anaconda 📚
+- **Computer Vision**: YOLOv5 🔑
+- **Image Processing**: OpenCV ☁️
 
 ## 🧑‍💻 **Contribute:**
 
