@@ -26,9 +26,6 @@ This platform connects people who have found lost items with those who are looki
 - **User-Friendly Interface** 🧑‍💻  
    The platform is designed to be simple and intuitive, making it easy for everyone to upload or search for lost items.
 
-- **Notifications** 📲  
-   Get notified if a newly uploaded item matches something you've lost.
-
 ## ⚡ **Benefits:**
 
 - **Support Your Community** 👫  
